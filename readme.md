@@ -32,7 +32,7 @@ Their head Data Scientist will be meeting with you to discuss your findings. The
 - Determine if Seasonal Differencing is needed. Make a note as to your decision, with graphical evidence to support.
 - Clearly address the logic behind your choices for all 7 terms (3 seasonal, 3 non-seasonal, and seasonal periods).
 - Utilize the Ljung-Box test to determine fit for your model (Dickey-Fuller Test). Record all observations.
-- Provide both in-sample ("using current data to correlations") and out-of-sample ("using past data to make forecasts of the future") forecasts for at least 3 different models. Summarize the resulting RSME values in your iPython notebook.
+- Provide both in-sample ("using current data to find correlations") and out-of-sample ("using past data to make predictions of the future") forecasts for at least 3 different models. Summarize the resulting RSME values in your iPython notebook.
 
 #### Starter code
 
